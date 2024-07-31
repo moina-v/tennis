@@ -1,0 +1,58 @@
+body {
+	font-family: helvetica;
+	margin: 50px auto;
+	width: 70%;
+	background-color:#F8EAFF;
+	text-align: center;
+}
+
+img {
+	width:100%;
+	display: flex;
+    justify-content: center;
+}
+}
+ h1{
+ 	color :violet;
+ 	font-family: Luminari, fantasy;
+ 	
+}
+
+.large {
+	font-size: 20px;
+}
+
+.cards {
+	display:flex;
+	gap: 16px;
+	justify-content: center;
+}
+
+.photo{
+	width:300px;
+	height: 350px;
+	object-fit: cover
+
+}
+.bloom{
+	width:100%;
+	height: 350px;
+	object-fit: cover;
+	border: 2px solid #6b3dc7
+
+
+}
+.profil{
+	display:flex;
+	flex-direction: column;
+	gap: 16px;
+	margin-top: 50px;
+	align-items: center
+}
+.pose{
+	width:100%;
+	height: 300px;
+	object-fit: cover;
+	border:2px solid #6b3dc7 ;
+}
+
