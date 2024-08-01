@@ -7,6 +7,6 @@ window.onload = function(){
 	}
 	alert("bravo, tu as trouvé la bonne réponse, tu peux éliminer toutes les personnes du rang 5 !");
 	alert("Il te reste 1 indice à trouver. Inspecte un peu ton site pour trouver la suite !");
-	console.log("Basket Unity");
+	console.log("Egateams - basket");
 }
 
